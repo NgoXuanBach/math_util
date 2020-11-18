@@ -8,7 +8,7 @@
 *...
 
 ### Connect me via:
-[FaceBook](https://facebook.com/ngo.bach.37/)
-[Email](mailto: bachnxse141097@fpt.edu.vn]
+1. [FaceBook](https://facebook.com/ngo.bach.37/)
+2. [Email](mailto: bachnxse141097@fpt.edu.vn]
 
-        ### © 2020 by NgoXuanBach | FPT University,HCM
+### © 2020 by NgoXuanBach | FPT University,HCM
