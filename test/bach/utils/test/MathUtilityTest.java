@@ -36,8 +36,8 @@ public class MathUtilityTest {
         assertEquals(24, getFactorial(4));
         assertEquals(1, getFactorial(0));
     }
-    //@Test(expected = IllegalArgumentException.class)
-    @Test(expected = SQLException.class)
+   @Test(expected = IllegalArgumentException.class)
+   //@Test(expected = SQLException.class)
     public void getFactorial_ThrowsException_IfInvalidArgument() {
         //ngoai le khong phai la value de assert()
         //chi co the chup no lai
